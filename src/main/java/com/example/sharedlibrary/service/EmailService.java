@@ -1,4 +1,4 @@
-package com.example.sharedlibrary;
+package com.example.sharedlibrary.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
